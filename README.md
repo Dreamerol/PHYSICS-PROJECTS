@@ -11,7 +11,7 @@
 
 ## 📋 Project Overview
 
-> This collection of **Physics Projects** demonstrates problem-solving, simulations, and algorithm implementation using **C++**. The projects range from classical mechanics, kinematics, to numerical simulations and mathematical modeling of physics phenomena.
+This collection of **Physics Projects** demonstrates problem-solving, simulations, and algorithm implementation using **C++**. The projects range from classical mechanics, kinematics, to numerical simulations and mathematical modeling of physics phenomena.
 
 ---
 
