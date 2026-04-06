@@ -1,5 +1,5 @@
 <h2 align="center">⚛️ PHYSICS PROJECTS – C++ IMPLEMENTATION</h2>
-<p align="center"><em style="font-size: 160%;">Simulations and problem-solving in physics using C++ programming and algorithms</em></p>
+
 <p align="center"><strong style="font-size: 200%;">Simulations and problem-solving in physics using C++ programming and algorithms</strong></p>
 
 <p align="center">
