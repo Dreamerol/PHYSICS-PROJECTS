@@ -91,6 +91,14 @@ These projects were developed to **apply theoretical physics concepts** in pract
 - **Numerical Methods & Simulations**  
 - **Physics Problem Solving**  
 - **Debugging & Testing**
+
+  ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Algorithms-Implemented-yellow?style=for-the-badge&logo=algorithmia&logoColor=white" alt="Algorithms">
+  <img src="https://img.shields.io/badge/Physics-Simulations-red?style=for-the-badge&logo=physics&logoColor=white" alt="Physics">
+</p>
 ---
 
 ## 📌 Conclusion
