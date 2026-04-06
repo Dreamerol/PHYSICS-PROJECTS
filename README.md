@@ -1,5 +1,5 @@
 <h2 align="center">⚛️ PHYSICS PROJECTS – C++ IMPLEMENTATION</h2>
-<p align="center"><em>Simulations and problem-solving in physics using C++ programming and algorithms</em></p>
+<p align="center"><em style="font-size: 120%;">Simulations and problem-solving in physics using C++ programming and algorithms</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
