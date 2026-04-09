@@ -1,6 +1,6 @@
 <h2 align="center">⚛️ PHYSICS-SIMULATION-SYSTEMS</h2>
 
-## <p align="center"><strong><em style="font-size: 350%;">Simulations and problem-solving in physics using algorithms</em></strong></p>
+## <p align="center"><strong><em style="font-size: 350%;">Physics Simulations & Algorithmic Problem Solving</em></strong></p>
 
 ---
 
