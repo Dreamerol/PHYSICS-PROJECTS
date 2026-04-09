@@ -1,4 +1,4 @@
-<h2 align="center">⚛️ PHYSICS-SIMULATION-SYSTEMS – C++ IMPLEMENTATION</h2>
+<h2 align="center">⚛️ PHYSICS-SIMULATION-SYSTEMS</h2>
 
 <p align="center"><strong><em style="font-size: 200%;">Simulations and problem-solving in physics using C++ programming and algorithms</em></strong></p>
 
