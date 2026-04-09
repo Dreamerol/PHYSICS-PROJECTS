@@ -20,7 +20,11 @@
 
 ## 📋 Project Overview
 
-This collection of **Physics Projects** demonstrates problem-solving, simulations, and algorithm implementation using **C++**. The projects range from classical mechanics, kinematics, to numerical simulations and mathematical modeling of physics phenomena.
+This repository presents a series of physics-focused computational projects implemented in **C++**, combining mathematical modeling with algorithmic problem-solving.
+
+The work covers core areas such as classical mechanics, kinematics, and numerical simulations, with an emphasis on translating theoretical concepts into structured, efficient code.
+
+Each project demonstrates the ability to model real-world physical systems, apply numerical methods, and design algorithms that accurately represent physical behavior.
 
 ---
 
