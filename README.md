@@ -20,7 +20,7 @@
 
 ## 📋 Project Overview
 
-This repository presents a series of physics-focused computational projects implemented in **C++**, combining mathematical modeling with algorithmic problem-solving.
+This repository presents a series of physics-focused computational projects, combining mathematical modeling with algorithmic problem-solving.
 
 The work covers core areas such as classical mechanics, kinematics, and numerical simulations, with an emphasis on translating theoretical concepts into structured, efficient code.
 
