@@ -29,12 +29,12 @@ Each project demonstrates the ability to model real-world physical systems, appl
 ---
 
 ### 🏛️ **Project Background / История**
-These projects were developed to **apply theoretical physics concepts** in practical C++ implementations. Each project explores a specific topic, such as motion equations, forces, energy conservation, or numerical simulations, helping to bridge the gap between **physics theory and programming practice**.
+These projects were developed to **apply theoretical physics concepts**. Each project explores a specific topic, such as motion equations, forces, energy conservation, or numerical simulations, helping to bridge the gap between **physics theory and programming practice**.
 
 ---
 
 ### 🎯 **Objectives / Поставени цели**
-1. Implement physics concepts using **efficient C++ algorithms**  
+1. Implement physics concepts using **efficient algorithms**  
 2. Simulate classical mechanics problems and visualize results  
 3. Solve mathematical physics tasks programmatically  
 4. Develop **modular and reusable code** for multiple physics problems
