@@ -2,9 +2,10 @@
 
 ## <p align="center"><strong><em style="font-size: 350%;">Physics Simulations & Algorithmic Problem Solving</em></strong></p>
 
+
 ---
 
-![Alt Text](https://github.com/Dreamerol/Dreamerol/blob/9f77b3048cd2d819433a6933848ae64d703eacd1/PHISICS%202.jpg)
+![Alt Text](https://github.com/Dreamerol/Dreamerol/blob/e2a0e2fc40efe49139af1627ac571b266ab35718/atom.jpg)
 
 ---
 
