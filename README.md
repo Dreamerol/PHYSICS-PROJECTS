@@ -58,16 +58,6 @@ What matters most is not only the result — but the engineering process:
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamerol&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
