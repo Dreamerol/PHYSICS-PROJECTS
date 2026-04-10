@@ -15,17 +15,10 @@
   <img src="https://img.shields.io/badge/Physics-Simulations-red?style=for-the-badge&logo=physics&logoColor=white" alt="Physics">
 </p>
 
----
-
-<h1 align="center">Hi, I'm a Computational Physics & Python Developer ⚙️</h1>
-
-<p align="center">
-  I build simulation systems that translate physics into executable code.
-</p>
 
 ---
 
-## 🧠 About Me
+## 🧠 About 
 
 - ⚙️ Focused on computational physics & numerical modeling  
 - 💻 Working with Python for simulation-based systems  
