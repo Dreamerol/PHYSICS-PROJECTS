@@ -20,15 +20,38 @@
 
 ## 📋 Project Overview
 
-This repository presents a series of physics-focused computational projects, combining mathematical modeling with algorithmic problem-solving.
+Physics is often introduced as a set of equations — precise, elegant, but static. At some point, I started asking a different question:
+What happens when those equations are allowed to run? ⚙️
+This project is my attempt to answer that.
+I took core concepts from physics — motion, forces, energy, kinematics — and translated them into computational systems. 💻
 
+Not just to solve problems, but to observe how these systems behave when they evolve over time. 📈
+Each idea started from theory and became something executable:
+algorithms that simulate motion, numerical models that approximate reality, and structured code that reflects physical laws. 🧠
+What mattered most wasn’t just the final result — but the process:
+
+🔍 breaking down complex problems into logical steps
+⚙️ designing algorithms that mirror real-world behavior
+✅ validating results against theoretical expectations
+
+Along the way, I built:
+⚙️ simulations of classical mechanics systems
+📈 numerical models for motion, forces, and energy
+🧩 reusable structures for solving physics problems programmatically
+
+This repository reflects more than completed tasks —
+it represents a shift in thinking:
+From solving equations → to building systems that embody them. ⚡
+
+It presents a series of physics-focused computational projects, combining mathematical modeling with algorithmic problem-solving.
 The work covers core areas such as classical mechanics, kinematics, and numerical simulations, with an emphasis on translating theoretical concepts into structured, efficient code.
-
 Each project demonstrates the ability to model real-world physical systems, apply numerical methods, and design algorithms that accurately represent physical behavior.
 
 ---
 
 ### 🏛️ **Project Background / История**
+
+
 These projects were developed to **apply theoretical physics concepts**. Each project explores a specific topic, such as motion equations, forces, energy conservation, or numerical simulations, helping to bridge the gap between **physics theory and programming practice**.
 
 ---
@@ -76,7 +99,7 @@ These projects were developed to **apply theoretical physics concepts**. Each pr
 ---
 
 ### 🖥️ Tech Stack
-- 🖥️ **Programming:** C++17  
+- 🖥️ **Programming:**  
 - 📚 **Libraries:** Standard Template Library (STL), iostream, cmath  
 - ⚡ **Tools:** GCC/G++, Visual Studio Code / Visual Studio, Git, GitHub
 
