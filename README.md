@@ -45,27 +45,6 @@
 - System Architecture  
 - Scientific Programming  
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamerol&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 🔥 Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</div>
 
 ---
 
