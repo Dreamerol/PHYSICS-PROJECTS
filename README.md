@@ -17,44 +17,68 @@
 
 ---
 
-## 📋 Project Overview
+<h1 align="center">Hi, I'm a Computational Physics & Python Developer ⚙️</h1>
 
-Physics is often introduced as a set of equations — precise, elegant, but static.  
-At some point, I started asking a different question:
-
-**What happens when those equations are allowed to run?** ⚙️  
-
-This project explores that idea by translating core physics concepts — motion, forces, energy, kinematics — into computational systems. 💻  
-
-The goal is not just solving equations, but **modeling how physical systems evolve over time through executable code**. 📈  
-
-Each idea moves from theory to implementation:  
-algorithms that simulate motion, numerical models that approximate reality, and structured code that reflects physical laws. 🧠  
-
-What matters most is not only the result — but the engineering process:
-
-- 🔍 Breaking down complex systems into computational steps  
-- ⚙️ Designing algorithms that approximate real-world behavior  
-- 🧩 Building reusable and modular components  
-- ✅ Validating results against theoretical expectations  
+<p align="center">
+  I build simulation systems that translate physics into executable code.
+</p>
 
 ---
 
-## ⚙️ Core Features
+## 🧠 About Me
 
-- Numerical simulations of classical mechanics systems  
+- ⚙️ Focused on computational physics & numerical modeling  
+- 💻 Working with Python for simulation-based systems  
+- 📈 Interested in algorithmic problem solving & system design  
+- 🧩 Building modular and reusable engineering structures  
+- ⚡ Turning mathematical models into executable systems  
+
+---
+
+## 🚀 What I Do
+
+- Numerical simulation of physical systems  
 - Algorithmic modeling of motion, forces, and energy  
-- Modular and reusable code structures  
-- Validation against analytical physics models  
+- Translating equations into Python-based systems  
+- Designing modular computational architectures  
 
 ---
 
-## 🧠 Engineering Approach
+## 🧩 Core Interests
 
-- Clear separation between physics models and execution logic  
-- Emphasis on readability, modularity, and extensibility  
-- Iterative refinement of numerical accuracy  
-- Focus on translating theory into maintainable code  
+- Computational Physics  
+- Numerical Methods  
+- Algorithm Design  
+- System Architecture  
+- Scientific Programming  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamerol&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+
+## ⚡ Philosophy
+
+> From equations → to systems that run, evolve, and explain reality through code.
 
 ---
 
