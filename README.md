@@ -135,3 +135,27 @@ This project demonstrates the intersection of **physics and programming**, showi
   <img src="https://img.shields.io/badge/Physics-Simulations-red?style=for-the-badge&logo=physics&logoColor=white" alt="Physics">
 </p>
 
+---
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamerol&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170">
+
+</div>
+
+---
+
+## 🔥 Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10">
+
+</div>
+
