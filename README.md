@@ -139,8 +139,6 @@ This project demonstrates the intersection of **physics and programming**, showi
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170">
