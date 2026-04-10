@@ -48,6 +48,16 @@
 
 ---
 
+## ⚙️ Tech Stack
+
+- 🐍 Python (core development language)
+- 🔢 NumPy (numerical computation)
+- 📊 Matplotlib (data visualization)
+- 🧪 Pytest (testing)
+- 🔧 Git (version control)
+
+---
+
 ## ⚡ Philosophy  
 
 
