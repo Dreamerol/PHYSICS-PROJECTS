@@ -57,18 +57,6 @@ What matters most is not only the result — but the engineering process:
 
 ---
 
-## 🧪 Testing
-
-The project includes unit and integration testing to ensure correctness and stability of simulations.
-
-```bash
-pip install -r requirements.txt
-pytest tests/
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
