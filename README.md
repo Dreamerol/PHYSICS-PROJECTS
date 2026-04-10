@@ -10,9 +10,12 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Algorithms-Implemented-yellow?style=for-the-badge&logo=algorithmia&logoColor=white" alt="Algorithms">
-  <img src="https://img.shields.io/badge/Physics-Simulations-red?style=for-the-badge&logo=physics&logoColor=white" alt="Physics">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-Numerical_Computing-orange?style=for-the-badge&logo=numpy">
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Scientific_Computing-Enabled-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Testing-Pytest-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-Version_Control-black?style=for-the-badge&logo=git">
 </p>
 
 
