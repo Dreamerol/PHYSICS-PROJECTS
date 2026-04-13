@@ -5,7 +5,7 @@
 
 ---
 
-![Alt Text](https://github.com/Dreamerol/Dreamerol/blob/e2a0e2fc40efe49139af1627ac571b266ab35718/atom.jpg)
+![Alt Text](https://github.com/Dreamerol/Dreamerol/blob/2ef7d607286d170020d452696c1f5286077191a4/math777.jpg)
 
 ---
 
