@@ -114,16 +114,6 @@
 
 ---
 
-<h2 align="center">🔥 GitHub Streak</h2>
-
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</div>
-
-
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
