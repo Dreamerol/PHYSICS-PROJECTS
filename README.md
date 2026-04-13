@@ -120,3 +120,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Dreamerol&theme=radical&border_radius=10" />
 </p>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dreamerol&theme=radical&border_radius=10&card_width=500" />
+</p>
