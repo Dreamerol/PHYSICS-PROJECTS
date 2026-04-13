@@ -116,9 +116,6 @@
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dreamerol&theme=radical&border_radius=10" />
-</p>
 
 <div align="center">
 
