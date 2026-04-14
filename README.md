@@ -112,13 +112,7 @@
  ## <p align="center"><strong><em style="font-size: 350%;"> From equations → to systems that run, evolve, and explain reality through code.</em></strong></p>  
 
 
----
 
 
-<h2 align="center">🔥 GitHub Streak</h2>
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dreamerol&theme=radical&border_radius=10&card_width=500" />
-</p>
 
