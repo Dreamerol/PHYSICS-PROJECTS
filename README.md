@@ -93,6 +93,11 @@
 - 🧪 Pytest (testing)
 - 🔧 Git (version control)
 
+
+---
+
+ ## <p align="center"><strong><em style="font-size: 350%;"> From equations → to systems that run, evolve, and explain reality through code.</em></strong></p>  
+
 ---
 
 
@@ -104,12 +109,6 @@
   <img src="https://img.shields.io/badge/Testing-Pytest-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Git-Version_Control-black?style=for-the-badge&logo=git">
 </p>
-
-
----
-
-
- ## <p align="center"><strong><em style="font-size: 350%;"> From equations → to systems that run, evolve, and explain reality through code.</em></strong></p>  
 
 
 ---
