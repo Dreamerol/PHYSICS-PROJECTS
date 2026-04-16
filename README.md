@@ -10,37 +10,30 @@
 ---
 
 <p align="center">
-  <!-- CORE (LOCKED - kept first) -->
+
+  <!-- ROW 1: CORE + DATA FOUNDATION -->
   <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-3B82F6?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Data_Analysis-F97316?style=for-the-badge&logo=apache&logoColor=white">
-
-  <!-- DATA / SCIENTIFIC EXTENSION -->
   <img src="https://img.shields.io/badge/NumPy-F59E0B?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-FBBF24?style=for-the-badge&logo=pandas&logoColor=black">
   <img src="https://img.shields.io/badge/SciPy-6366F1?style=for-the-badge&logo=scipy&logoColor=white">
 
-  <!-- VISUALIZATION -->
-  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Plotly-16A34A?style=for-the-badge&logo=plotly&logoColor=white">
+  <br>
 
-  <!-- AI / MODELING -->
+  <!-- ROW 2: AI + PHYSICS MODELING -->
+  <img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Deep_Learning-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Neural_Networks-A78BFA?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Model_Training-C4B5FD?style=for-the-badge">
   <img src="https://img.shields.io/badge/Scientific_AI-6366F1?style=for-the-badge">
-
-  <!-- PHYSICS / SIMULATION -->
   <img src="https://img.shields.io/badge/Numerical_Methods-4F46E5?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Simulation-4338CA?style=for-the-badge">
   <img src="https://img.shields.io/badge/Mathematical_Modeling-3730A3?style=for-the-badge">
 
-  <!-- TOOLS -->
+  <br>
+
+  <!-- ROW 3: VISUALIZATION + TOOLS -->
+  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
   <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Pytest-EF4444?style=for-the-badge&logo=pytest&logoColor=white">
+
 </p>
 
 
