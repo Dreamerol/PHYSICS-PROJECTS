@@ -17,10 +17,6 @@
   <img src="https://img.shields.io/badge/NumPy-F59E0B?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-FBBF24?style=for-the-badge&logo=pandas&logoColor=black">
   <img src="https://img.shields.io/badge/SciPy-6366F1?style=for-the-badge&logo=scipy&logoColor=white">
-
-  <br>
-
-  <!-- ROW 2: AI + PHYSICS + TOOLS -->
   <img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Deep_Learning-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Scientific_AI-6366F1?style=for-the-badge">
