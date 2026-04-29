@@ -1,4 +1,4 @@
-<h2 align="center">⚛️ PHYSICS-SIMULATION-SYSTEMS</h2>
+<h2 align="center">⚛️ 𝗣𝗛𝗬𝗦𝗜𝗖𝗦 𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</h2>
 
 ## <p align="center"><strong><em style="font-size: 350%;">Physics Simulations & Algorithmic Problem Solving</em></strong></p>
 
