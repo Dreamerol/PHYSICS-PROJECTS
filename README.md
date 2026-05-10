@@ -3,11 +3,11 @@
 ## <p align="center"><strong><em style="font-size: 350%;">Physics Simulations & Algorithmic Problem Solving</em></strong></p>
 
 
----
+
 
 ![Alt Text](https://github.com/Dreamerol/Dreamerol/blob/2ef7d607286d170020d452696c1f5286077191a4/math777.jpg)
 
----
+<br>
 
 <p align="center">
 
