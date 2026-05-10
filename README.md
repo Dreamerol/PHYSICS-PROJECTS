@@ -138,20 +138,6 @@
 
 ---
 
- ## <p align="center"><strong><em style="font-size: 350%;"> From equations → to systems that run, evolve, and explain reality through code.</em></strong></p>  
-
-
-
-<p align="center">
-  🔗 Explore more on my GitHub profile: 
-  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
-</p>
-
-
-
-
----
-
 
 <p align="center">
 
@@ -170,6 +156,17 @@
   <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Pytest-EF4444?style=for-the-badge&logo=pytest&logoColor=white">
 
+</p>
+
+---
+
+ ## <p align="center"><strong><em style="font-size: 350%;"> From equations → to systems that run, evolve, and explain reality through code.</em></strong></p>  
+
+
+
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
 </p>
 
 
