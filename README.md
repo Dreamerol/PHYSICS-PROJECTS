@@ -5,7 +5,7 @@
 
 
 
-![Alt Text](https://raw.githubusercontent.com/Dreamerol/Dreamerol/2ef7d607286d170020d452696c1f5286077191a4/math777.jpg)
+![Alt Text](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/math777.jpg)
 
 <br>
 
