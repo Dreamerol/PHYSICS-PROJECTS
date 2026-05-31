@@ -13,7 +13,7 @@
 <p align="center">
 
   <!-- CORE FLOW: dark navy → blue -->
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3B82F6">
+  <img src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=3B82F6">
   <img src="https://img.shields.io/badge/C++-1E3A8A?style=for-the-badge&logo=c%2B%2B&logoColor=60A5FA">
 
   <!-- DATA FLOW: blue → indigo -->
