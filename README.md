@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Numerical_Methods-1E40AF?style=for-the-badge">
   <img src="https://img.shields.io/badge/Mathematical_Modeling-312E81?style=for-the-badge">
 
-  <img src="https://img.shields.io/badge/Matplotlib-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Matplotlib-1D4ED8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Git-312E81?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Pytest-6366F1?style=for-the-badge&logo=pytest&logoColor=white">
 
