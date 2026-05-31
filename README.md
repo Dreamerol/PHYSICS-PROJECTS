@@ -9,6 +9,7 @@
 
 <br>
 
+
 <p align="center">
 
   <!-- CORE FLOW: dark navy → blue -->
@@ -36,31 +37,6 @@
 
 </p>
 
-
-
-
-
-<p align="center">
-
-  <!-- ROW 1: CORE + DATA FOUNDATION (math-themed gradient) -->
-  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-4338CA?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-3B82F6?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/SciPy-6366F1?style=for-the-badge&logo=scipy&logoColor=white">
-
-  <img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Deep_Learning-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
-
-  <img src="https://img.shields.io/badge/Scientific_AI-4338CA?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Numerical_Methods-1E40AF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mathematical_Modeling-312E81?style=for-the-badge">
-
-  <img src="https://img.shields.io/badge/Matplotlib-1D4ED8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-312E81?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Pytest-6366F1?style=for-the-badge&logo=pytest&logoColor=white">
-
-</p>
 
 
 
