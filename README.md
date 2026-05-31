@@ -54,22 +54,34 @@
 
 <p align="center">
 
-  <!-- ROW 1: CORE + DATA FOUNDATION -->
-  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-F59E0B?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-FBBF24?style=for-the-badge&logo=pandas&logoColor=black">
-  <img src="https://img.shields.io/badge/SciPy-6366F1?style=for-the-badge&logo=scipy&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Deep_Learning-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Scientific_AI-6366F1?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Numerical_Methods-4F46E5?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mathematical_Modeling-3730A3?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Pytest-EF4444?style=for-the-badge&logo=pytest&logoColor=white">
+  <!-- CORE FLOW: dark navy → blue -->
+  <img src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=3B82F6">
+  <img src="https://img.shields.io/badge/C++-1E3A8A?style=for-the-badge&logo=c%2B%2B&logoColor=60A5FA">
+
+  <!-- DATA FLOW: blue → indigo -->
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/SciPy-3B82F6?style=for-the-badge&logo=scipy&logoColor=white">
+
+  <!-- ML FLOW: indigo → violet -->
+  <img src="https://img.shields.io/badge/Machine_Learning-4F46E5?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <!-- MATH SYSTEM LAYER -->
+  <img src="https://img.shields.io/badge/Scientific_AI-4338CA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Numerical_Methods-1E40AF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Mathematical_Modeling-312E81?style=for-the-badge">
+
+  <!-- TOOLS FLOW: blue → violet finish -->
+  <img src="https://img.shields.io/badge/Matplotlib-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-4C1D95?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytest-6366F1?style=for-the-badge&logo=pytest&logoColor=white">
 
 </p>
+
+
+
+
 
 
 ---
@@ -85,20 +97,29 @@
 
 <p align="center">
 
-  <!-- ROW 1: CORE + DATA FOUNDATION -->
-  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-F59E0B?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-FBBF24?style=for-the-badge&logo=pandas&logoColor=black">
-  <img src="https://img.shields.io/badge/SciPy-6366F1?style=for-the-badge&logo=scipy&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Deep_Learning-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Scientific_AI-6366F1?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Numerical_Methods-4F46E5?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mathematical_Modeling-3730A3?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Pytest-EF4444?style=for-the-badge&logo=pytest&logoColor=white">
+  <!-- CORE FLOW: dark navy → blue -->
+  <img src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=3B82F6">
+  <img src="https://img.shields.io/badge/C++-1E3A8A?style=for-the-badge&logo=c%2B%2B&logoColor=60A5FA">
+
+  <!-- DATA FLOW: blue → indigo -->
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/SciPy-3B82F6?style=for-the-badge&logo=scipy&logoColor=white">
+
+  <!-- ML FLOW: indigo → violet -->
+  <img src="https://img.shields.io/badge/Machine_Learning-4F46E5?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <!-- MATH SYSTEM LAYER -->
+  <img src="https://img.shields.io/badge/Scientific_AI-4338CA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Numerical_Methods-1E40AF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Mathematical_Modeling-312E81?style=for-the-badge">
+
+  <!-- TOOLS FLOW: blue → violet finish -->
+  <img src="https://img.shields.io/badge/Matplotlib-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-4C1D95?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytest-6366F1?style=for-the-badge&logo=pytest&logoColor=white">
+
 
 </p>
 
@@ -119,22 +140,34 @@
 
 <p align="center">
 
-  <!-- ROW 1: CORE + DATA FOUNDATION -->
-  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-F59E0B?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-FBBF24?style=for-the-badge&logo=pandas&logoColor=black">
-  <img src="https://img.shields.io/badge/SciPy-6366F1?style=for-the-badge&logo=scipy&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Deep_Learning-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Scientific_AI-6366F1?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Numerical_Methods-4F46E5?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mathematical_Modeling-3730A3?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Pytest-EF4444?style=for-the-badge&logo=pytest&logoColor=white">
+  <!-- CORE FLOW: dark navy → blue -->
+  <img src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=3B82F6">
+  <img src="https://img.shields.io/badge/C++-1E3A8A?style=for-the-badge&logo=c%2B%2B&logoColor=60A5FA">
+
+  <!-- DATA FLOW: blue → indigo -->
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/SciPy-3B82F6?style=for-the-badge&logo=scipy&logoColor=white">
+
+  <!-- ML FLOW: indigo → violet -->
+  <img src="https://img.shields.io/badge/Machine_Learning-4F46E5?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <!-- MATH SYSTEM LAYER -->
+  <img src="https://img.shields.io/badge/Scientific_AI-4338CA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Numerical_Methods-1E40AF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Mathematical_Modeling-312E81?style=for-the-badge">
+
+  <!-- TOOLS FLOW: blue → violet finish -->
+  <img src="https://img.shields.io/badge/Matplotlib-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-4C1D95?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytest-6366F1?style=for-the-badge&logo=pytest&logoColor=white">
 
 </p>
+
+
+
+
 
 
 ---
@@ -153,22 +186,34 @@
 
 <p align="center">
 
+  <!-- CORE FLOW: dark navy → blue -->
+  <img src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=3B82F6">
+  <img src="https://img.shields.io/badge/C++-1E3A8A?style=for-the-badge&logo=c%2B%2B&logoColor=60A5FA">
 
-  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-F59E0B?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-FBBF24?style=for-the-badge&logo=pandas&logoColor=black">
-  <img src="https://img.shields.io/badge/SciPy-6366F1?style=for-the-badge&logo=scipy&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Deep_Learning-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Scientific_AI-6366F1?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Numerical_Methods-4F46E5?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mathematical_Modeling-3730A3?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Matplotlib-22C55E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Pytest-EF4444?style=for-the-badge&logo=pytest&logoColor=white">
+  <!-- DATA FLOW: blue → indigo -->
+  <img src="https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-2563EB?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/SciPy-3B82F6?style=for-the-badge&logo=scipy&logoColor=white">
+
+  <!-- ML FLOW: indigo → violet -->
+  <img src="https://img.shields.io/badge/Machine_Learning-4F46E5?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+  <!-- MATH SYSTEM LAYER -->
+  <img src="https://img.shields.io/badge/Scientific_AI-4338CA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Numerical_Methods-1E40AF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Mathematical_Modeling-312E81?style=for-the-badge">
+
+  <!-- TOOLS FLOW: blue → violet finish -->
+  <img src="https://img.shields.io/badge/Matplotlib-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-4C1D95?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytest-6366F1?style=for-the-badge&logo=pytest&logoColor=white">
 
 </p>
+
+
+
+
 
 ---
 
