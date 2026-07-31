@@ -7,41 +7,33 @@
 
 ![Alt Text](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/math777.jpg)
 
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+
+<img
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
+width="100%"
+alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
+/>
+
+</a>
+
+</div>
+
+
+
+
+
+
 <br>
 
 
-<p align="center">
 
-  <!-- CORE: warm base + blue hint -->
-  <img src="https://img.shields.io/badge/Python-3B2F2F?style=for-the-badge&logo=python&logoColor=3B82F6">
-  <img src="https://img.shields.io/badge/C++-4A2C2A?style=for-the-badge&logo=c%2B%2B&logoColor=60A5FA">
-
-  <!-- DATA: warm → soft blue transition -->
-  <img src="https://img.shields.io/badge/NumPy-5A3E2B?style=for-the-badge&logo=numpy&logoColor=FBBF24">
-  <img src="https://img.shields.io/badge/Pandas-3B4A5A?style=for-the-badge&logo=pandas&logoColor=93C5FD">
-  <img src="https://img.shields.io/badge/SciPy-4B5563?style=for-the-badge&logo=scipy&logoColor=60A5FA">
-
-  <!-- ML: mixed warm + purple/blue -->
-  <img src="https://img.shields.io/badge/Machine_Learning-6B4A2F?style=for-the-badge&logo=tensorflow&logoColor=3B82F6">
-  <img src="https://img.shields.io/badge/Deep_Learning-4C1D95?style=for-the-badge&logo=pytorch&logoColor=F59E0B">
-
-  <!-- MATH SYSTEM -->
-  <img src="https://img.shields.io/badge/Scientific_AI-3B4A5A?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Numerical_Methods-5A3E2B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mathematical_Modeling-1E3A8A?style=for-the-badge">
-
-  <!-- TOOLS: warm → cool finish -->
-  <img src="https://img.shields.io/badge/Matplotlib-4B5563?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-3B2F2F?style=for-the-badge&logo=git&logoColor=F97316">
-  <img src="https://img.shields.io/badge/Pytest-374151?style=for-the-badge&logo=pytest&logoColor=60A5FA">
-
-</p>
-
-
-
-
-
----
 
 ## 🧠 About 
 
@@ -50,41 +42,6 @@
 - 📈 Interested in algorithmic problem solving & system design  
 - 🧩 Building modular and reusable engineering structures  
 - ⚡ Turning mathematical models into executable systems  
-
----
-
-
-
-<p align="center">
-
-  <!-- CORE: warm base + blue hint -->
-  <img src="https://img.shields.io/badge/Python-3B2F2F?style=for-the-badge&logo=python&logoColor=3B82F6">
-  <img src="https://img.shields.io/badge/C++-4A2C2A?style=for-the-badge&logo=c%2B%2B&logoColor=60A5FA">
-
-  <!-- DATA: warm → soft blue transition -->
-  <img src="https://img.shields.io/badge/NumPy-5A3E2B?style=for-the-badge&logo=numpy&logoColor=FBBF24">
-  <img src="https://img.shields.io/badge/Pandas-3B4A5A?style=for-the-badge&logo=pandas&logoColor=93C5FD">
-  <img src="https://img.shields.io/badge/SciPy-4B5563?style=for-the-badge&logo=scipy&logoColor=60A5FA">
-
-  <!-- ML: mixed warm + purple/blue -->
-  <img src="https://img.shields.io/badge/Machine_Learning-6B4A2F?style=for-the-badge&logo=tensorflow&logoColor=3B82F6">
-  <img src="https://img.shields.io/badge/Deep_Learning-4C1D95?style=for-the-badge&logo=pytorch&logoColor=F59E0B">
-
-  <!-- MATH SYSTEM -->
-  <img src="https://img.shields.io/badge/Scientific_AI-3B4A5A?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Numerical_Methods-5A3E2B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mathematical_Modeling-1E3A8A?style=for-the-badge">
-
-  <!-- TOOLS: warm → cool finish -->
-  <img src="https://img.shields.io/badge/Matplotlib-4B5563?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-3B2F2F?style=for-the-badge&logo=git&logoColor=F97316">
-  <img src="https://img.shields.io/badge/Pytest-374151?style=for-the-badge&logo=pytest&logoColor=60A5FA">
-
-</p>
-
-
-
-
 
 
 
@@ -100,37 +57,6 @@
 ---
 
 
-<p align="center">
-
-  <!-- CORE: warm base + blue hint -->
-  <img src="https://img.shields.io/badge/Python-3B2F2F?style=for-the-badge&logo=python&logoColor=3B82F6">
-  <img src="https://img.shields.io/badge/C++-4A2C2A?style=for-the-badge&logo=c%2B%2B&logoColor=60A5FA">
-
-  <!-- DATA: warm → soft blue transition -->
-  <img src="https://img.shields.io/badge/NumPy-5A3E2B?style=for-the-badge&logo=numpy&logoColor=FBBF24">
-  <img src="https://img.shields.io/badge/Pandas-3B4A5A?style=for-the-badge&logo=pandas&logoColor=93C5FD">
-  <img src="https://img.shields.io/badge/SciPy-4B5563?style=for-the-badge&logo=scipy&logoColor=60A5FA">
-
-  <!-- ML: mixed warm + purple/blue -->
-  <img src="https://img.shields.io/badge/Machine_Learning-6B4A2F?style=for-the-badge&logo=tensorflow&logoColor=3B82F6">
-  <img src="https://img.shields.io/badge/Deep_Learning-4C1D95?style=for-the-badge&logo=pytorch&logoColor=F59E0B">
-
-  <!-- MATH SYSTEM -->
-  <img src="https://img.shields.io/badge/Scientific_AI-3B4A5A?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Numerical_Methods-5A3E2B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mathematical_Modeling-1E3A8A?style=for-the-badge">
-
-  <!-- TOOLS: warm → cool finish -->
-  <img src="https://img.shields.io/badge/Matplotlib-4B5563?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-3B2F2F?style=for-the-badge&logo=git&logoColor=F97316">
-  <img src="https://img.shields.io/badge/Pytest-374151?style=for-the-badge&logo=pytest&logoColor=60A5FA">
-
-</p>
-
-
-
-
----
 
 ## 🧩 Core Interests
 
@@ -144,43 +70,6 @@
 ---
 
 
-
-
-<p align="center">
-
-  <!-- CORE: warm base + blue hint -->
-  <img src="https://img.shields.io/badge/Python-3B2F2F?style=for-the-badge&logo=python&logoColor=3B82F6">
-  <img src="https://img.shields.io/badge/C++-4A2C2A?style=for-the-badge&logo=c%2B%2B&logoColor=60A5FA">
-
-  <!-- DATA: warm → soft blue transition -->
-  <img src="https://img.shields.io/badge/NumPy-5A3E2B?style=for-the-badge&logo=numpy&logoColor=FBBF24">
-  <img src="https://img.shields.io/badge/Pandas-3B4A5A?style=for-the-badge&logo=pandas&logoColor=93C5FD">
-  <img src="https://img.shields.io/badge/SciPy-4B5563?style=for-the-badge&logo=scipy&logoColor=60A5FA">
-
-  <!-- ML: mixed warm + purple/blue -->
-  <img src="https://img.shields.io/badge/Machine_Learning-6B4A2F?style=for-the-badge&logo=tensorflow&logoColor=3B82F6">
-  <img src="https://img.shields.io/badge/Deep_Learning-4C1D95?style=for-the-badge&logo=pytorch&logoColor=F59E0B">
-
-  <!-- MATH SYSTEM -->
-  <img src="https://img.shields.io/badge/Scientific_AI-3B4A5A?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Numerical_Methods-5A3E2B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Mathematical_Modeling-1E3A8A?style=for-the-badge">
-
-  <!-- TOOLS: warm → cool finish -->
-  <img src="https://img.shields.io/badge/Matplotlib-4B5563?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-3B2F2F?style=for-the-badge&logo=git&logoColor=F97316">
-  <img src="https://img.shields.io/badge/Pytest-374151?style=for-the-badge&logo=pytest&logoColor=60A5FA">
-
-</p>
-
-
-
-
-
-
-
-
----
 
 ## ⚙️ Tech Stack
 
